@@ -1,5 +1,5 @@
 {
-  "name": "react-native-timer",
+  "name": "expo-lottie",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "expo": "~50.0.14",
+    "expo-camera": "~14.1.2",
+    "expo-haptics": "^12.8.1",
+    "expo-sensors": "~12.9.1",
     "expo-status-bar": "~1.11.1",
+    "lottie-react-native": "6.5.1",
     "react": "18.2.0",
     "react-native": "0.73.6"
   },
